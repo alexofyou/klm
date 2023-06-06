@@ -1,11 +1,13 @@
-[
-    
-    
+
+
+
  
  {
-  "text":"Моментально",
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-     "percent": "1%",
+  "title":"Vin Pro ",
+ "rating": 4,
+ "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+    "privacy": "444 5543",   
+  "percent": "1%",
 	"sum_one": "до 50 000 руб",
      "url": "https://google.com"
         
@@ -17,46 +19,12 @@
 
 
  {
-   "text":"Моментально",
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-  
+   "title":"S wor",
+ "rating": 4,
+  "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+    "privacy": "444 5543",
      "percent": "0%",
 	"sum_one": "до 50 000 руб",
      "url": "https://www.homecredit.ru"
   
     }
-    
- ,
- {
-   "text":"Моментально",
-     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-     "percent": "1%",
-	"sum_one": "до 50 000 руб",
-     "url": "https://google.com"
-        
-  
-    }
-    
-    
-,
-
-
- {
-   "text":"Моментально",
-     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-     "percent": "0%",
-	"sum_one": "до 50 000 руб",
-     "url": "https://www.homecredit.ru"
-  
-    }
-    
-
-
-
-
- 
-   
-   
-  
-  
-]
